@@ -22,4 +22,4 @@ SW       │         │D1────R=330───LED──┤
 GND                                   GND
 ```
 
-
+![alt text](https://github.com/echiu777/esp8266_two_way_wifi_communication/blob/main/DSCF8002.jpg)
